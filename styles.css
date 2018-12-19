@@ -1,0 +1,20 @@
+body {
+    color: #00706a;
+    font-family: Arial, sans-serif;
+    font-size:14px;
+    -moz-transition-property: text-shadow;
+    -moz-transition-duration: 4s;
+    -webkit-transition-property: text-shadow;
+    -webkit-transition-duration: 4s;
+    text-shadow: none;
+  }
+  a {
+    color: #55aaff;
+  }
+
+  h1 {
+    color: #33342D;
+    font-size: 500%;
+    font-weight: normal;
+    margin-bottom: 0em;
+  }
